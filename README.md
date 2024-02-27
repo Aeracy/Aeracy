@@ -9,4 +9,3 @@ I'm **Mizuhara Aeracy**, you can call me **Aeracy** or **Ary**.
 - Basically a full-time Game Development Designer. 
    - Mainly used engine is Unity/UE4. 
    - Game Maker Studio, Solar2D, and Godot can also be used, but I’m not that professional.
-- For any game development projects, you can come to me as long as I can help. 
