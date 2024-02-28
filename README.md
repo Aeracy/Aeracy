@@ -13,6 +13,10 @@ I'm **Mizuhara Aeracy**, you can call me **Aeracy** or **Ary**.
 
 ---
 
-##Contact information
+## Contact information
 
----
+- Discord:aeracyaryw/Aeracy#2679(Working platform)
+- Telegram:@Mizuhara_Aeracy(Working platform)
+- Twitter:@Mizuhara_Aeracy(Social platforms)
+- QQ:2789803190(Social platforms)
+
